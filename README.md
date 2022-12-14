@@ -7,6 +7,7 @@ The [keynote](https://azureaiconf.com/#!/session/%3Cstrong%3EKeynote:%20Doing%20
 - [.NET 7 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
 - [Dapr - State Management API](https://docs.dapr.io/developing-applications/building-blocks/state-management/state-management-overview/)
 - [Visual Studio 2022 17.5 Publish Containers (using .NET SDK)](https://devblogs.microsoft.com/dotnet/announcing-builtin-container-support-for-the-dotnet-sdk/)
+- [Azure Container Apps](https://learn.microsoft.com/en-us/azure/container-apps/overview)
 - [GitHub CodeSpaces](https://github.com/features/codespaces)
 - [GitHub Copilot](https://github.com/features/copilot)
 - [Azure Dev CLI (AZD)](https://aka.ms/azd) for publish and pipeline creation
