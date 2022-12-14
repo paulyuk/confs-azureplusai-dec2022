@@ -32,7 +32,7 @@ Then finally we showed Resiliency APIs (retries, circuit breakers, TTL) using th
 https://docs.dapr.io/getting-started/quickstarts/resiliency/
 
 Slides:
-[Invincible apps with Dapr PPTX](./Invincable%20apps%20with%20Dapr%20-%20Dec%202022%20Azure%20plus%20AI.pptx)
+[Invincible apps with Dapr PPTX](./Invincible%20apps%20with%20Dapr%20-%20Dec%202022%20Azure%20plus%20AI.pptx)
 
 ## Go Serverless with Azure Functions
 
